@@ -1,4 +1,11 @@
-+++ Talk_date = "" Talk_start_time = "" Talk_end_time = "" Title = "Hands-On LLMOps: Build an Observable AI System in 90 Minutes" Type = "talk" Speakers = ["jeanne-mcclure"] +++
++++ 
+Talk_date = "" 
+Talk_start_time = "" 
+Talk_end_time = "" 
+Title = "Hands-On LLMOps: Build an Observable AI System in 90 Minutes" 
+Type = "talk" 
+Speakers = ["jeanne-mcclure"] 
++++
 
 Your team shipped an LLM feature. It works—mostly. But last week it gave a customer bizarre advice, and nobody knows why. The logs show an HTTP 200. Helpful.
  LLMs fail differently than traditional software. There's no stack trace when the model hallucinates. Your APM tools see a successful API call while the output is nonsense.

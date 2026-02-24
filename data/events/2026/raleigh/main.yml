@@ -199,7 +199,7 @@ program:
     end_time: "11:10"
   - title: "leon-adato-keynote"
     type: talk
-    date:2026-04-30
+    date: 2026-04-30
     start_time: "11:10"
     end_time: "11:40"
   - title: "joel-tosi-keynote"
@@ -272,7 +272,7 @@ program:
     date: 2026-04-30
     start_time: "17:00"
     end_time: "19:00"
- - title: "Registration, Breakfast"
+  - title: "Registration, Breakfast"
     type: custom
     date: 2026-05-01
     start_time: "08:00"
@@ -302,7 +302,7 @@ program:
     date: 2026-05-01
     start_time: "9:45"
     end_time: "9:50"
- - title: "Open Spaces"
+  - title: "Open Spaces"
     type: open-space
     date: 2026-05-01
     start_time: "09:50"
@@ -310,17 +310,17 @@ program:
   - title: "ashley-arya-workshop"
     type: workshop
     date: 2026-05-01
-    start_time: "10:20
+    start_time: "10:20"
     end_time: "11:50"
   - title: "velu-natarajan-workshop"
     type: workshop
     date: 2026-05-01
-    start_time: "10:20
+    start_time: "10:20"
     end_time: "11:50"
   - title: "kapil-patel-workshop"
     type: workshop
     date: 2026-05-01
-    start_time: "10:20
+    start_time: "10:20"
     end_time: "11:50"
   - title: "Lunch"
     type: custom
@@ -355,9 +355,9 @@ program:
   - title: "jeremy-meiss-keynote"
     type: talk
     date: 2026-05-01
-    start_time: "114:35"
+    start_time: "14:35"
     end_time: "15:05"
- - title: "Closing Remarks, Raffle, & Prizes"
+  - title: "Closing Remarks, Raffle, & Prizes"
     type: custom
     date: 2026-05-01
     start_time: "15:05"

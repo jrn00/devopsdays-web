@@ -1,4 +1,11 @@
-+++ Talk_date = "" Talk_start_time = "" Talk_end_time = "" Title = "Cross Platform Streaming Video QoE Validation in CI/CD Pipelines" Type = "talk" Speakers = ["suresh-palus"] +++
++++ 
+Talk_date = "" 
+Talk_start_time = "" 
+Talk_end_time = "" 
+Title = "Cross Platform Streaming Video QoE Validation in CI/CD Pipelines" 
+Type = "talk" 
+Speakers = ["suresh-palus"]
++++
 
 The rapid growth of video streaming platforms across mobile, web, smart TV, and OTT devices has significantly increased the complexity of ensuring consistent Quality of Experience (QoE) for end users. While DevOps practices have successfully automated functional, performance, and security testing, 
 video QoE validation remains largely manual, reactive, and siloed, often detected only after customer complaints or production incidents. This gap creates a critical risk for streaming platforms operating at scale.
